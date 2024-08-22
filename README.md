@@ -12,3 +12,5 @@ System must have Graphical Processing Unit (GPU) NVIDIA with minimum RTX4070 cap
 ![Figures_Bird Counting](https://github.com/user-attachments/assets/262687b2-86cc-494e-b52e-30952c2084cc)
 Processing with CUDA configuration 12.4 version using Pytorch https://pytorch.org/
 ![Figures_Bird Counting](https://github.com/user-attachments/assets/7dfc2adb-b0d8-4306-af44-2136dc79d0a5)
+If CUDA not available then configure it from  https://developer.nvidia.com/cuda-toolkit
+![Capture](https://github.com/user-attachments/assets/c3252cbe-5aac-4a86-b0ce-0e83291a0a01)
