@@ -7,3 +7,6 @@ Dr. Ali Farhan PhD, CYCU, Taiwan. Email: smalifarhan@gmail.com
 Prof. Chung-Der Hsiao Department of Bioscience Technology, CYCU, Taiwan. Email: cdhsiao@cycu.edu.tw
 # APP For Bird Counting with Windows Operating System Installation Guide
 ![Figures_Bird Counting](https://github.com/user-attachments/assets/465d3997-29aa-4a4a-acb6-45bab3b748fe)
+# Installation Requirements
+System must have Graphical Processing Unit with minimum RTX4070 capacity for fast execution
+![Figures_Bird Counting](https://github.com/user-attachments/assets/262687b2-86cc-494e-b52e-30952c2084cc)
