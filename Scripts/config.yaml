@@ -1,0 +1,16 @@
+epochs: 2
+img_size: 640
+batch_size: 4
+weights : C:\Users\USER\Desktop\proj\Yolov9-birds\best.pt   # weights path or last
+## in weights you have the path the proper path of last.pt file
+path: 'C:\Users\USER\Desktop\proj\Yolov9-birds\dataset'
+
+img_path: C:\Users\USER\Desktop\proj\Yolov9-birds\dataset\metric_test\6\images
+label_path: C:\Users\USER\Desktop\proj\Yolov9-birds\dataset\metric_test\6\labels
+
+
+split_img_path: C:\Users\USER\Desktop\proj\Yolov9-birds\split_data\metric_test\6\images
+split_label_path: C:\Users\USER\Desktop\proj\Yolov9-birds\split_data\metric_test\6\labels
+
+collect_label_path: C:\Users\user\Desktop\proj\Yolov9-birds\split_data
+final_label_path: C:\Users\USER\Desktop\proj\Yolov9-birds\split_data\inf_collected_labels

@@ -1,0 +1,7 @@
+1- modify config.yaml file
+
+2- run the following commands
+
+cd C:\Users\User\Desktop\proj\Scripts
+
+python run_all.py
