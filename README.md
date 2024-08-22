@@ -20,3 +20,5 @@ If CUDA not available then configure it from  https://developer.nvidia.com/cuda-
 ![F1_curve](https://github.com/user-attachments/assets/069ea98e-55ac-4778-9b84-b1c31c5d7f64)
 ![val_batch2_pred](https://github.com/user-attachments/assets/94662c27-fafd-4d53-b766-1f631c1c097c)
 ![PR_curve](https://github.com/user-attachments/assets/0bb33f74-76db-4225-a727-6a69c5432a31)
+# Note
+If CUDA Configuration would not become successful then GUI based APP would not work and will have to install modules manually using Requirement.txt in cmd
